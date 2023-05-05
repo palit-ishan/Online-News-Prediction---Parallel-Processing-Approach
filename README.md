@@ -1,4 +1,4 @@
-# Online_News_Prediction_Parallel_Processing
+# Online News Prediction - Parallel Processing Approach 
 The dataset summarizes a heterogeneous set of features about articles published by Mashable
 (an online news organization) in a period of two years. The goal is to predict the number of
 shares of these news articles. It is a classic regression problem which we will solve using -
